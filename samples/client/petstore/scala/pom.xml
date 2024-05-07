@@ -236,7 +236,7 @@
         </dependency>
     </dependencies>
     <properties>
-        <scala-version>2.11.12</scala-version>
+        <scala-version>2.13.13</scala-version>
         <joda-version>1.9.2</joda-version>
         <joda-time-version>2.9.9</joda-time-version>
         <jersey-version>1.19.4</jersey-version>
