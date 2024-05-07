@@ -238,7 +238,7 @@
     <properties>
         <scala-version>2.11.12</scala-version>
         <joda-version>1.9.2</joda-version>
-        <joda-time-version>2.9.9</joda-time-version>
+        <joda-time-version>2.12.7</joda-time-version>
         <jersey-version>1.19.4</jersey-version>
         <swagger-core-version>1.5.18</swagger-core-version>
         <jersey-async-version>1.0.5</jersey-async-version>
